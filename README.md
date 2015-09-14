@@ -1,2 +1,2 @@
 # Material
-A collection of links and materials that might be useful for your VR app
+A collection of links and materials that might serve as input for your VR app.
