@@ -7,7 +7,7 @@
 
 ## diverse files
 
-* [archive.org](https://archive.org/) host more than just the waybackmachine: audio, video, pictures. Very well curated.
+* [archive.org](https://archive.org/) host more than just the waybackmachine: audio, video, pictures. Very well curated. Especially note thecollections, e.g. ["News & Public Affairs"](https://archive.org/details/newsandpublicaffairs&tab=collection)
 * [Wikimedia commons audio files](https://commons.wikimedia.org/wiki/Category:Audio_files)
 * On [Soundcloud](https://soundcloud.com/) you'll find many songs that have a creative commons license
 * in the [free music archive](http://freemusicarchive.org/) you'll find songs under a creative commons license
