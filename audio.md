@@ -8,7 +8,10 @@
 ## diverse files
 
 * [Wikimedia commons audio files](https://commons.wikimedia.org/wiki/Category:Audio_files)
-* On [Soundcloud](https://soundcloud.com/) you'll find many songs that have a creativecommons license
+* On [Soundcloud](https://soundcloud.com/) you'll find many songs that have a creative commons license
+* in the [free music archive](http://freemusicarchive.org/) you'll find songs under a creative commons license
+*
+
 
 ## NZZ
 * we have interesting audio files as well (interviews, etc.) -- ask Flavio
