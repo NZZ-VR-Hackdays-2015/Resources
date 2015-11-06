@@ -5,4 +5,4 @@
 * [Youtube](http://www.youtube.com) is of course a good source for videos.
 
 ## 360 degree video
-*  There are many [360-degree videos on youtube](https://www.youtube.com/channel/UCzuqhhs6NWbgTzMuM09WKDQ). 360 degree videos are nothing put a rotatable equirectangular projection.
+*  There are many [360-degree videos on youtube](https://www.youtube.com/channel/UCzuqhhs6NWbgTzMuM09WKDQ). 360 degree videos are stored as "usual" videos but in a equirectangular projection.
