@@ -6,3 +6,6 @@
 
 ## 360 degree video
 *  There are many [360-degree videos on youtube](https://www.youtube.com/channel/UCzuqhhs6NWbgTzMuM09WKDQ). 360 degree videos are stored as "usual" videos but in a equirectangular projection.
+
+## NZZ
+* Check the videos on our website. If you find one that you'd like to use (or parts of it), please talk to Flavio -- he will make the video available for you. (Even parts of it!).
