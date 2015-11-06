@@ -11,4 +11,4 @@
 
 ## NZZ
 
-We will have one laptop available dedicated to access our archive. You will be able to browse it and to donwload pictures for usage in your app.
+We have access to our archive. Please talk to us.
